@@ -65,7 +65,7 @@ h1{
     font-size: 15px;
 }
 
-@media screen and (min-width: 1920px) {
+@media screen and (min-width: 1440px) {
     .grid-container {
         grid-template-columns: repeat(3, 1fr);
         justify-content: center;
